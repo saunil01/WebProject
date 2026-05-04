@@ -33,7 +33,7 @@ A mental-wellness web companion. Track moods, write journals, breathe, see what 
 ### For admins
 - **Admin console** — hero band with active-today + community-mood, sparkline metrics, mood trend chart + mood-mix doughnut, **wellbeing watchlist** (members whose recent moods skew negative), live activity feed, inactive users.
 - **Privacy-first moderation** — administrators can delete users, journals, and mood entries but **cannot read journal content, mood notes, or lifestyle data**. Moderation works on metadata only.
-- **Audit log** — every privileged admin action (user / journal / mood deletion) is permanently recorded with the responsible admin, target user, target resource, and timestamp.
+- **Audit log** — every privileged admin action (user/journal/mood deletion) is permanently recorded with the responsible admin, target user, target resource, and timestamp.
 - **User management** — searchable, filterable card grid with avatars, role badges, and per-user activity counts.
 - **CSV export** of admin metrics.
 
