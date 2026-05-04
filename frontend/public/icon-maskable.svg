@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1aa88c"/>
+      <stop offset="100%" stop-color="#0f7d68"/>
+    </linearGradient>
+  </defs>
+  <!-- Maskable icons need a "safe zone" — important content within the central 80%. -->
+  <rect width="512" height="512" fill="url(#bg)"/>
+  <path d="M256 340 c -65 -38 -98 -80 -98 -122 0 -32 25 -57 57 -57 19 0 35 10 41 25 6 -15 22 -25 41 -25 32 0 57 25 57 57 0 42 -33 84 -98 122z"
+        fill="#ffffff" opacity="0.96"/>
+</svg>
